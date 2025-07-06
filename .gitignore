@@ -8,9 +8,17 @@ __pycache__/
 
 # Distribution / packaging
 .Python
---build/
+build/     
 develop-eggs/
---dist/
+dist/      
+downloads/
+# ... (restante do seu .gitignore)
+
+# Distribution / packaging
+.Python
+
+develop-eggs/
+
 downloads/
 eggs/
 .eggs/
