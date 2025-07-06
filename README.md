@@ -10,6 +10,8 @@ Minha Dock é um lançador de aplicativos minimalista e discreto para Windows, p
 
 Desenvolvido em Python com Tkinter e a poderosa biblioteca `pywin32`, esta dock oferece uma experiência de usuário limpa e eficiente.
 
+![Dock posicionada acima da barra de tarefas](imagens/screenshots/barradetarefasmaistaskbar.png)
+
 ### ✨ Funcionalidades Principais
 
 * **Adicionar Atalhos Facilmente:** Adicione executáveis (`.exe`), atalhos (`.lnk`), URLs de internet (`.url`), arquivos Batch (`.bat`, `.cmd`) ou ícones (`.ico`) diretamente à dock.
@@ -27,6 +29,26 @@ Desenvolvido em Python com Tkinter e a poderosa biblioteca `pywin32`, esta dock 
 ## 🚀 Como Instalar e Usar
 
 A forma mais fácil de usar a Minha Dock é baixando o executável pré-compilado. Você não precisa ter Python instalado!
+
+📸 Prévia da Minha Dock
+
+Aqui você pode ver a Minha Dock em ação na área de trabalho, mostrando diferentes estados e usos:
+
+### Dock com Barra de Tarefas (Exemplo de Posicionamento)
+
+![Dock posicionada acima da barra de tarefas](imagens/screenshots/barradetarefasmaistaskbar.png)
+
+### Dock Minimalista
+
+![Visão geral da dock com atalhos](imagens/screenshots/dock-taskbar.png)
+
+### Área de Trabalho com Muitos Ícones (Antes da Organização)
+
+![Exemplo de área de trabalho cheia de ícones](imagens/screenshots/telacheiadeicones.png)
+
+### Área de Trabalho Vazia (Após Organização com a Dock)
+
+![Exemplo de área de trabalho sem ícones, organizada pela dock](imagens/screenshots/telasemicones.png)
 
 ### 📥 Download do Executável
 
