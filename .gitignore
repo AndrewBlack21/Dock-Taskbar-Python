@@ -12,6 +12,8 @@ build/
 develop-eggs/
 dist/      
 downloads/
+imagens/
+screenshots/
 # ... (restante do seu .gitignore)
 
 # Distribution / packaging
